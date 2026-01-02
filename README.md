@@ -22,7 +22,3 @@ solarapp.py: The main frontend application. Handles the UI, user inputs, and fin
 solarmodel.py: The AI backend. Defines the SimpleLSTM class, handles data normalization, and runs the prediction loop.
 solar_lstm_temp.pt: The pre-trained PyTorch model weights. This ensures the app runs instantly without needing to retrain the neural network every time.
 (this is tagged as releases due to the file size)
-
-Run the App: streamlit run solarapp.py
-
-Created by Meghana | AI & Machine Learning Enthusiast
